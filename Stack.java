@@ -44,6 +44,6 @@ class Stack{
 		s.pop();
 		s.pop();
 		s.display();
-  
+  1
   }
 }
